@@ -21,6 +21,8 @@ export const defaultConfig: Config = {
 	geoApi: 'https://api.ipgeolocation.io/ipgeo',
 }
 
+
+
 export let configuration: Config = {
 	streamerId: 49,
 	streamerName: 'diegochampagne',
